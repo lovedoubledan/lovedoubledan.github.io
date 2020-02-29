@@ -22,4 +22,4 @@
 ### Research
 - Small object detection
 - Single image super-resolution
-- Medical image detection
+- Medical lesion detection
