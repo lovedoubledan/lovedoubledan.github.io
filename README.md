@@ -1,12 +1,11 @@
 # Personal Page Of Jiahao Wu
 
-### Personal information
+## Personal information
 #### Jiahao Wu
 #### Undergraduate, Sophomore(Formerly)
 #### Sun Yat-sen University
 ##### School Of Intelligent Systems Engineering
 ###### Intelligent Science and Technology
-#### China
 
 
 ### Contact
