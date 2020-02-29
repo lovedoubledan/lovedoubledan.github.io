@@ -6,7 +6,7 @@
     <td width="75%">
       <h1>Jiahao Wu</h1>
       <p><b>Undergraduate, Sophomore(Formerly)</b></p>
-      <p><b>Sun Yat-sen University, School Of Intelligent Systems Engineering</b></p>
+      <p><b>Sun Yat-sen University</b></p>
       <p><b>Subject: Intelligent Science and Technology</b></p>
     </td>
     <td width="25%">
